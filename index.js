@@ -1,6 +1,6 @@
 const fs = require('fs');
 const inqur = require('inquirer');
-const {Shape,Circle,Triangle,Square} = require('./lib/shape.js');
+const {Shape,Circle,Triangle,Square} = require('./assets/shape.js');
 
 
 
