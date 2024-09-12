@@ -76,7 +76,7 @@ N/A
 ### Mock-Up
 
 Here is a mock-up of the expected result based on the user input:
-![Mockup](./examples/sample_logomaker.png)
+![Mockup](/assets/images/sample_logomaker.png)
 
 Here is a link to a video to show you it in action! ![Click here!](https://www.youtube.com/watch?v=vceO3neAybk)
 
