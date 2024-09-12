@@ -13,6 +13,13 @@ This command-line application allows users to generate simple logos in SVG forma
 - [Questions/Contact](#questions)
 - [License](#license)
 
+## Mock-Up
+
+Here is a mock-up of the expected result based on the user input:
+![Mockup](/assets/images/sample_logomaker.png)
+
+Here is a link to a video to show you it in action! [Click here!](https://www.youtube.com/watch?v=vceO3neAybk)
+
 ## Installation
 
 1. Clone the project repository to your desired directory.
@@ -57,26 +64,3 @@ If you have any additional questions, feel free to reach out via email at breann
 ## License
 
 N/A
-
----
-
-### User Story
-
-**AS** a freelance web developer,  
-**I WANT** to generate a simple logo for my projects,  
-**SO THAT** I don't have to pay a graphic designer.
-
-
-### Mock-Up
-
-Here is a mock-up of the expected result based on the user input:
-![Mockup](/assets/images/sample_logomaker.png)
-
-Here is a link to a video to show you it in action! [Click here!](https://www.youtube.com/watch?v=vceO3neAybk)
-
-### Getting Started
-
-This project utilizes **Inquirer** for user input and **Jest** for testing. Follow the installation and usage instructions above to run the application. The application will be invoked using the following command:
-
-```bash
-node index.js
