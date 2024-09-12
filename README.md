@@ -30,12 +30,6 @@ This command-line application allows users to generate simple logos in SVG forma
    - Choose a color for the shape (either by keyword or hex code).
 3. The generated SVG logo file will be saved as `logo.svg` in the project directory.
 
-### Example Output:
-
-![Sample LogoMaker Output](examples/sample_logomaker.svg)
-
-This is an example of a logo generated with the program using the input "SVG", a white text color, a circle shape, and a green shape color.
-
 ## Badges
 
 [![Static Badge](https://img.shields.io/badge/GitHub-breannacamacho-darkgreen)](https://github.com/breannacamacho) 
@@ -78,7 +72,7 @@ N/A
 Here is a mock-up of the expected result based on the user input:
 ![Mockup](/assets/images/sample_logomaker.png)
 
-Here is a link to a video to show you it in action! ![Click here!](https://www.youtube.com/watch?v=vceO3neAybk)
+Here is a link to a video to show you it in action! [Click here!](https://www.youtube.com/watch?v=vceO3neAybk)
 
 ### Getting Started
 
